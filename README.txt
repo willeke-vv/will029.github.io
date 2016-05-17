@@ -1,50 +1,34 @@
-
-TITLE: 
-Booster - Responsive Free HTML5 template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
-http://freehtml5.co/
-
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Future Imperfect by HTML5 UP
+html5up.net | @n33co
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+It's been a long time coming, but I've finally gotten around to creating a brand new
+blog-style template (and the first since Striped, which came out waaaaay back in 2013).
+Anyway, Future Imperfect features a clean, expansive layout, a toggleable search box,
+and -- because pretty much all modern browsers can use it now -- a whole lot of flexbox
+action. Enjoy it :)
 
-Bootstrap
-http://getbootstrap.com/
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-jQuery
-http://jquery.com/
+(* = not included)
 
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon Entypo
-https://icomoon.io/app/
-http://www.entypo.com/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Owl Carousel 2
-http://www.owlcarousel.owlgraphic.com/
+AJ
+n33.co @n33co dribbble.com/n33
 
 
+Credits:
 
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		Misc. Sass functions (@HugoGiraudel)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)
